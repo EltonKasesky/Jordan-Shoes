@@ -10,9 +10,8 @@ Desenvolvida com:
   
 Veja o projeto:
 
-- Clone o repositório: Utilize o comando git clone https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository para baixar o projeto em seu computador.
-- Acesse o diretório: Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador.
-- Explore e aprenda: Mergulhe no código e veja como cada elemento foi criado e como as tecnologias se integram para dar vida à landing page.
+- Acesse o projeto utilizando o link abaixo:
+- https://landing-page-jordan-nike.vercel.app
   
 Detalhes que fazem a diferença:
 
