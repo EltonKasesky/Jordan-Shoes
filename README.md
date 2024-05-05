@@ -4,8 +4,7 @@
 Este projeto é uma aplicação web desenvolvida para oferecer uma solução para exibir a criação de interfaces atraentes e funcionais, com foco na marca Jordan Nike. Explore uma experiência visualmente cativante e intuitiva, projetada para destacar os produtos e a história por trás da icônica linha de calçados e roupas esportivas.
 
 ## Demonstração
-![Cabeçalho](src/images/viewsiteheader.png)
-![Conteudo Principal](src/images/viewsitemain.png)
+![Demonstração do site](src/images/viewsite.png)
 
 ## Instalação
 1. Clone este repositório: `git clone https://github.com/EltonKasesky/Landing-Page-Jordan-Nike.git`
